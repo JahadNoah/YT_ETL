@@ -1,0 +1,19 @@
+NOTICE — Third-Party Attributions
+
+================================================================================
+Apache Airflow
+================================================================================
+
+The file docker-compose.yaml is derived from the official Apache Airflow
+docker-compose example, originally published at:
+
+  https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
+
+Copyright (c) The Apache Software Foundation (ASF).
+Licensed under the Apache License, Version 2.0.
+
+Modifications were made to the original file to suit the requirements of
+this project.
+
+A full copy of the Apache License, Version 2.0 is available at:
+  https://www.apache.org/licenses/LICENSE-2.0
