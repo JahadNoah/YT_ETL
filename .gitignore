@@ -1,5 +1,5 @@
 venv/
-__pyache__/
+__pycache__/
 .env
 logs/
-dockerfile
+*.zip
